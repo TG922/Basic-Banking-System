@@ -48,7 +48,7 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
      </p>
    </li>
 
-  <li> <b> Database : </b>
+  <li> <b> Database Used: </b>
      <p align="left"> 
        <a href="https://www.mysql.com/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
