@@ -40,7 +40,7 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
       </a>
     </p> 
   </li>
-  <li> <b> Backend Tech: </b>
+  <li> <b> Backend Used: </b>
     <p align = "left">
       <a href="https://www.php.net" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
