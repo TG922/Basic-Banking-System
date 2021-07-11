@@ -21,7 +21,7 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 
 ## SOFTWARE REQUIREMENTS
 <ul type="square">
-  <li> <b> Frontend Used: </b>
+  <li> <b> Frontend Technology: </b>
     <p align="left"> 
       <a href="https://www.w3.org/html/" target="_blank" > 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -40,7 +40,7 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
       </a>
     </p> 
   </li>
-  <li> <b> Backend Used: </b>
+  <li> <b> Backend Technology: </b>
     <p align = "left">
       <a href="https://www.php.net" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -48,7 +48,7 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
      </p>
    </li>
 
-  <li> <b> Database Used: </b>
+  <li> <b> Database Technology: </b>
      <p align="left"> 
        <a href="https://www.mysql.com/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
