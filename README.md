@@ -1,8 +1,16 @@
 # Basic-Banking-System
 
+Sparks Foundation Web Development Internship Project : Basic Banking System website.
 Creating a simple dynamic website which has the following specs. 
-Starting with creating a dummy data in database for upto 10  customers. Database options: Mysql, Mongo, Postgres, etc.  Customers table will have basic fields such as name, email,  current balance etc. Transfers table will record all transfers  happened.
+A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities. Transfers table will record all transfers happened.
 
+The website has the following specification -
+1. A dummy data for upto 10 customers
+2. Customers table with basic fields such as name, email, current balance etc.
+3. Transaction status
+3. Transfer table/ Transfer History which records all the transactions
+
+Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 
 # GRIP - JULY 2021
