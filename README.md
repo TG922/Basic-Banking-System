@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/TG922/Basic-Banking-System/edit/main/README.md&label=Profile%20views&color=129e00&style=plastic" alt="TG922" /> </p>
+
 # BasicBankingSystem
 Sparks Foundation Web Development Internship Project : Basic Banking System website.
 Starting with creating a dummy data in database.
